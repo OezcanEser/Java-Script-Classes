@@ -17,9 +17,6 @@ class Person {
     }
 }
 
-// document.querySelector('ul').innerHTML += `<li class=${!this.exam ? 'red' : ''
-//     }>${this.name}, ${this.age}</li>`;
-
 let emanuela = new Person("Emanuela", 18)
 
 console.log(emanuela.info())
